@@ -9,6 +9,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.2.0",
     "mongodb": "^3.6.0",
+    "openid-client": "^5.1.0",
     "slugify": "^1.4.5"
   },
   "devDependencies": {},
